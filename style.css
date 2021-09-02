@@ -4,3 +4,15 @@
   box-sizing: border-box;
 }
 
+.main-visual {
+  height: 400px;
+  background-image: url(img/mv.jpg);
+  background-size: cover;
+  background-position: bottom;
+}
+
+.main-visual-heading {
+  padding: 20px;
+  color: #696969;
+}
+
